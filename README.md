@@ -7,21 +7,21 @@ the below is given directory for using the sourcecodes for training models and u
 Project--|                                                     
          app.py  
          modelname.keras  
-         templates--|  
+         templates--|
                     index.html  
                     login.html  
                     login.js  
                     signup.html  
          static--|  
-                css--|  
-                     style.css  
-                js--|  
-                    script.js  
-                img.jpeg  
+                 css--|  
+                       style.css  
+                 js--|  
+                     script.js  
+                 img.jpeg  
          dataset--|  
-                test  
-                try  
-                val  
+                  test  
+                  try  
+                  val  
          trainmadel.py  
                      
   **     
