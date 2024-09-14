@@ -1,0 +1,61 @@
+/* Custom Styles */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Navbar styling */
+.navbar {
+    padding: 0.5rem 1rem;
+}
+
+.navbar-brand {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #fff;
+}
+
+.navbar-nav .nav-item {
+    margin-left: 15px;
+}
+
+.navbar-nav .nav-link {
+    font-size: 1.1rem;
+    color: #fff;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #34e89e;
+}
+
+.navbar-toggler {
+    border: none;
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath fill='%23fff' d='M0 3h16v2H0V3zm0 4h16v2H0V7zm0 4h16v2H0v-2z'/%3E%3C/svg%3E");
+}
+
+/* Form styles */
+.form-control-file {
+    border: 2px solid #032905;
+}
+
+.btn-primary {
+    color: #f4f4f4;
+    background-color: #032905;
+}
+
+.btn-primary:hover {
+    background-color: #024d1f;
+}
+
+/* Result section styles */
+.result {
+    margin-top: 20px;
+}
+
+#uploadedImage {
+    border: 10px solid rgb(1, 26, 16);
+    border-radius: 40px;
+}
+
